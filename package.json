@@ -1,0 +1,25 @@
+{
+  "name": "vue-bulma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.4.2",
+    "font-awesome": "^4.7.0",
+    "minireset.css": "0.0.3",
+    "three": "^0.85.2",
+    "vue": "^2.3.3",
+    "vue-router": "^2.5.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "deploy": "node deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
